@@ -1,0 +1,1 @@
+This is a Bash script that changes the line width in subtitle XML files to ease the transition from SD timeline to HD timelines
