@@ -3,12 +3,12 @@ Use Finder to create a directory called xml off of the home directory.
 Copy both this readme file and the actual xmlfix.sh.
 Close Finder and open a Terminal window.
 Enter the command "cd xml" without the quotes into the terminal.
-Enter the command "chmod +x width-fix.sh" or "chmod +x size-fix.sh"  without the quotes into the terminal.
+Enter the command either "chmod +x width-fix.sh" or "chmod +x size-fix.sh"  without the quotes into the terminal.
 
 Use:
 Use the preferred method to put 1 or more .xml files into the xml directory.
 Open a Terminal window.
 Enter the command "cd xml" without the quotes into the terminal.
-Enter the command "./width-fix.sh" or "./size-fix.sh" without the quotes into the the terminal.
+Enter the command either "./width-fix.sh" or "./size-fix.sh" without the quotes into the the terminal.
 At this point the terminal should indicate which file has been fixed. The terminal will indicate that all files have been fixed when it has finished.
 Exit the terminal
